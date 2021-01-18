@@ -149,7 +149,7 @@ function startQuiz() {
 function showScore() {
     let.style.display = "none"
     gameoverDiv.style.display = "flex";
-    quizTimer.textContent = "";
+    quizTimer.textContent = "Timer";
     clearInterval(timerInterval);
     highscoreInputName.value = "";
     finalScoreEl.innerHTML = "You answered " + score + " out of " + quizQuestions.length + " correct!";
@@ -200,7 +200,7 @@ function generateHighscores() {
 
 // shows high score page 
 function showHighscore() {
-    
+
     startQuizDiv.style.display = "none"
     gameoverDiv.style.display = "none";
     highscoreContainer.style.display = "flex";
