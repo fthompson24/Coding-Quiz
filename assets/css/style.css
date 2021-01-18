@@ -17,7 +17,7 @@ p{
     font-family: sans-serif;
 
 }
-h2{
+h1{
     font-family: sans-serif;
     margin-top: -.5rem;
 }
@@ -53,7 +53,8 @@ button {
 
 
 button:hover{
-    box-shadow: 4px 3px 6px #4450bd;
+    box-shadow: 6px 5px 8px #9c47c4;
+    background-color:rgb(71, 63, 230)
 }
 
 #startpage{
