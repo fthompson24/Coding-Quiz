@@ -28,7 +28,9 @@ THEN I can save my initials and score
 
 The following animation demonstrates the application functionality:
 
-Preview of Quiz
 ![Code Quiz](example.gif)
 
+Access the delopyed application here:
+
+[CLICK HERE to experience quiz!](https://fthompson24.github.io/Coding-Quiz/)
 
